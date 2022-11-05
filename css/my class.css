@@ -1,8 +1,18 @@
 
 /*HTML元素*/
 body{
-    font-size: 0.75rem;
-    background-color: blanchedalmond;
+    font-size: 1.25rem;
+    background-color: antiquewhite;
+}
+a{
+    color: #ee541d;
+    text-decoration: none;
 }
 /*CLASS*/
-.req-cls{background-color: blanchedalmond}
+.req-cls{
+    background-color: mistyrose}
+
+/*ID*/
+#hate{
+    color: #ff4145;
+}
